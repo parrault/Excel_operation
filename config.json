@@ -1,0 +1,116 @@
+{
+    "options": [
+        {
+            "label": "Secteur",
+            "checked": false,
+            "cell": "E2"
+        },
+        {
+            "label": "Sous-secteur",
+            "checked": false,
+            "cell": "F2"
+        },
+        {
+            "label": "Cours de bourse",
+            "checked": true,
+            "cell": "B5"
+        },
+        {
+            "label": "WACC",
+            "checked": false,
+            "cell": "S144"
+        },
+        {
+            "label": "PGR",
+            "checked": true,
+            "cell": "S145"
+        },
+        {
+            "label": "DCFvalue",
+            "checked": false,
+            "cell": "U196"
+        },
+        {
+            "label": "Upside/Downside",
+            "checked": true,
+            "cell": "U198"
+        },
+        {
+            "label": "Organic24",
+            "checked": true,
+            "cell": "U50"
+        },
+        {
+            "label": "Organic25",
+            "checked": false,
+            "cell": "U51"
+        },
+        {
+            "label": "Organic26",
+            "checked": false,
+            "cell": "U52"
+        },
+        {
+            "label": "Organic27",
+            "checked": false,
+            "cell": "U53"
+        }
+    ],
+    "default": [
+        {
+            "label": "Secteur",
+            "checked": false,
+            "cell": "E2"
+        },
+        {
+            "label": "Sous-secteur",
+            "checked": false,
+            "cell": "F2"
+        },
+        {
+            "label": "Cours de bourse",
+            "checked": false,
+            "cell": "B5"
+        },
+        {
+            "label": "WACC",
+            "checked": false,
+            "cell": "S144"
+        },
+        {
+            "label": "PGR",
+            "checked": false,
+            "cell": "S145"
+        },
+        {
+            "label": "DCFvalue",
+            "checked": false,
+            "cell": "U196"
+        },
+        {
+            "label": "Upside/Downside",
+            "checked": false,
+            "cell": "U198"
+        },
+        {
+            "label": "Organic24",
+            "checked": false,
+            "cell": "U50"
+        },
+        {
+            "label": "Organic25",
+            "checked": false,
+            "cell": "U51"
+        },
+        {
+            "label": "Organic26",
+            "checked": false,
+            "cell": "U52"
+        },
+        {
+            "label": "Organic27",
+            "checked": false,
+            "cell": "U53"
+        }
+    ]
+}
